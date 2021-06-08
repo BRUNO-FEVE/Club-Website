@@ -1,0 +1,52 @@
+/* Default Configs */
+body {
+  background-color: #d7eaea;
+  color: #69779b;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+
+/* Header Background */
+header {
+  background-color: #9692af;
+}
+
+/* Header Links List */
+header ul {
+  display: inline-flex;
+}
+
+header li {
+  text-align: center;
+  list-style-type: none;
+}
+
+header ul a {
+  text-decoration: none;
+  color: #acdbdf;
+}
+
+/* Configs for User Experience */
+header ul a:visited {
+  color: #acdbdf;
+}
+
+header ul a:hover {
+  font-size: 18px;
+  transition-duration: 0.2s;
+}
+
+.name {
+  background-image: linear-gradient(to right, #d7eaea, #69779b, #d7eaea);
+  width: 100%;
+  height: 500px;
+  font-size: 30px;
+  text-align: center;
+  line-height: 500px;
+}
+
+.name h1 {
+  vertical-align: middle;
+  color: linear-gradient(to left, #69779b, #d7eaea);
+}
