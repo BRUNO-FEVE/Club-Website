@@ -79,11 +79,7 @@ h2 {
   margin-left: 5%;
 }
 
-.ttList {
-  list-style: none;
-  width: 100%;
-}
-
+/* Config for it section os the tt */
 .trendings {
   margin: 0;
   padding-left: 5%;
@@ -94,6 +90,7 @@ h2 {
   margin-left: 20%;
 }
 
+/* Configs for the images */
 .img {
   width: auto;
   height: 250px;
@@ -107,12 +104,19 @@ h2 {
   width: auto;
 }
 
+/* List to the example images */
+.ttList {
+  list-style: none;
+  width: 100%;
+}
+
 .ttListGrafic {
   display: inline-flex;
   justify-content: space-around;
   margin-top: 10px;
 }
 
+/* Configs for the Sneakers */
 #dunkAndJordan {
   width: 280px;
   height: auto;
