@@ -121,3 +121,11 @@ h2 {
   width: 280px;
   height: auto;
 }
+
+/* Sold Out img */
+#imgSoldOut {
+  margin-top: 35px;
+  margin-left: 6%;
+  width: 80%;
+  height: auto;
+}
